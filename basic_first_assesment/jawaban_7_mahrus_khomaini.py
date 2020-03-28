@@ -1,3 +1,5 @@
+from students_data import *
+
 """
 Completing students data.
 *Example only, you are free to use function or not.

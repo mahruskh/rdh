@@ -1,3 +1,5 @@
+from students_data import *
+
 """
 a. Find students with duplicated `student_id`.
 *Example only, you are free to use function or not.

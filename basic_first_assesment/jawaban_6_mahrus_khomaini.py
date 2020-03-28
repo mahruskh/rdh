@@ -1,3 +1,5 @@
+from students_data import *
+
 """
 Replace gender by value.
 *Example only, you are free to use function or not.

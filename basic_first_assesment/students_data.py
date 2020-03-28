@@ -15,31 +15,31 @@ students = [
         "lessons": [
             {
                 "subject": "python",
-                "score": 83.5,
+                "score": 90,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "php",
-                "score": 85,
+                "score": 87,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "javascript",
-                "score": 73,
+                "score": 84.5,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "golang",
-                "score": 79,
+                "score": 86.6,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "ruby",
-                "score": 70.5,
+                "score": 85,
                 "grade": None,
                 "is_passed": None
             },
@@ -57,7 +57,7 @@ students = [
         "lessons": [
             {
                 "subject": "python",
-                "score": 87,
+                "score": 85,
                 "grade": None,
                 "is_passed": None
             },
@@ -69,19 +69,19 @@ students = [
             },
             {
                 "subject": "javascript",
-                "score": 81,
+                "score": 78,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "golang",
-                "score": 69.5,
+                "score": 78.5,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "ruby",
-                "score": 85,
+                "score": 80,
                 "grade": None,
                 "is_passed": None
             },
@@ -99,31 +99,31 @@ students = [
         "lessons": [
             {
                 "subject": "python",
-                "score": 87,
+                "score": 70,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "php",
-                "score": 80.5,
+                "score": 64,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "javascript",
-                "score": 81,
+                "score": 79,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "golang",
-                "score": 69.5,
+                "score": 68.5,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "ruby",
-                "score": 85,
+                "score": 60.5,
                 "grade": None,
                 "is_passed": None
             },
@@ -141,31 +141,31 @@ students = [
         "lessons": [
             {
                 "subject": "python",
-                "score": 87,
+                "score": 92,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "php",
-                "score": 80.5,
+                "score": 89,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "javascript",
-                "score": 81,
+                "score": 73,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "golang",
-                "score": 69.5,
+                "score": 86.5,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "ruby",
-                "score": 85,
+                "score": 88.5,
                 "grade": None,
                 "is_passed": None
             },
@@ -183,31 +183,31 @@ students = [
         "lessons": [
             {
                 "subject": "python",
-                "score": 87,
+                "score": 68,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "php",
-                "score": 80.5,
+                "score": 60.5,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "javascript",
-                "score": 81,
+                "score": 88.5,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "golang",
-                "score": 69.5,
+                "score": 63.5,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "ruby",
-                "score": 85,
+                "score": 67.5,
                 "grade": None,
                 "is_passed": None
             },
@@ -267,31 +267,31 @@ students = [
         "lessons": [
             {
                 "subject": "python",
-                "score": 87,
+                "score": 87.5,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "php",
-                "score": 80.5,
+                "score": 88,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "javascript",
-                "score": 81,
+                "score": 90,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "golang",
-                "score": 69.5,
+                "score": 78.5,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "ruby",
-                "score": 85,
+                "score": 82.5,
                 "grade": None,
                 "is_passed": None
             },
@@ -309,31 +309,31 @@ students = [
         "lessons": [
             {
                 "subject": "python",
-                "score": 87,
+                "score": 79.5,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "php",
-                "score": 80.5,
+                "score": 84.5,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "javascript",
-                "score": 81,
+                "score": 82,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "golang",
-                "score": 69.5,
+                "score": 76.5,
                 "grade": None,
                 "is_passed": None
             },
             {
                 "subject": "ruby",
-                "score": 85,
+                "score": 83,
                 "grade": None,
                 "is_passed": None
             },
